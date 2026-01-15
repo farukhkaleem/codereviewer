@@ -1,2 +1,2 @@
-# codereviewer
+# code reviewer
 Code Reviewer
